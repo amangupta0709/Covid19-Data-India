@@ -1,7 +1,9 @@
 # Covid19-Data-India
-A simple form asking your email id your state and district and it will automatically send an email of latest covid19 cases of your area 
+A simple form asking your email id your state and district and it will automatically send an email of latest covid19 cases of your area.
 
-## How to Use
+Made entirely on Python Web Framework Django by using Covid-19 India API.
+
+## How to Works
 
 1. Type your name, gmail email address as both are required fields.
 
