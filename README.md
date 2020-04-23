@@ -3,7 +3,7 @@ A simple form asking your email id your state and district and it will automatic
 
 Made entirely on Python Web Framework Django by using Covid-19 India API.
 
-## How to Works
+## How it Works
 
 1. Type your name, gmail email address as both are required fields.
 
